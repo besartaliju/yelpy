@@ -33,13 +33,14 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/B59NhWi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/Cyit2dO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+This app didn't entertain me too much. Maybe it's because this was a rough weekend with me for the workload. But I didn't find making a Yelp client entertaining. Also, I had a plethora of problems with git in this project. 
 
 ## License
 
